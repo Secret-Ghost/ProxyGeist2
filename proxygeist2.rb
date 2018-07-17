@@ -6,7 +6,7 @@ require 'colorize'
 
 
 
-#use like:   ruby scanner.rb 8 proxylist.txt 
+#use like:   ruby proxygeist2.rb 8 proxylist.txt 
  
 
 $timeout = ARGV[0].to_i
