@@ -46,7 +46,7 @@ puts'Wi.~!X$?!-~    : ?$$$B$Wu("**$RM!'
 puts'$R@i.~~ !     :   ~$$$$$B$$en:``'
 puts'?MXT@Wx.~    :     ~"##*$$$$M~'
 puts'Proxygeist by: Ghost @ vaughlive.tv'
-puts 'Please wait, harvesting...'
+puts 'Please wait, checking proxies...'
 
 
 
@@ -96,5 +96,5 @@ threads.map(&:join)
 
 
 out_file.close
-puts 'Harvesting Finished. Have a nice day :)'
+puts 'Finished checking proxies. Have a nice day :)'
 
